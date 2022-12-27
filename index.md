@@ -11,3 +11,8 @@ I make this as my submission to [Belajar Membuat Aplikasi Web dengan React](http
 ## 2. [Ternate Awesome](https://ternateawesome.fakhry.me/)
 Image Gallery from Ternate. I build this website use PHP language without framework.
 I use clean architecture principles to build this. Visit the [Github repo](https://github.com/fakhrylinux/ternate-awesome) for the source code.
+
+
+## 3. [Book Shelf API](https://github.com/fakhrylinux/bookshelf-api)
+Backend API using HAPI Framework. Backend for Create, Read, Update, and Delete book.
+This is my project for submission to [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261) class.
